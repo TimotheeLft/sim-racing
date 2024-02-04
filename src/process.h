@@ -12,5 +12,7 @@
 
 int main_process_job(void);
 
+int main_process_init(void);
+
 
 #endif /* PROCESS_H_ */
