@@ -1,0 +1,3 @@
+[submodule "external/shifter"]
+	path = external/shifter
+	url = git@github.com:TimotheeLft/shifter.git
