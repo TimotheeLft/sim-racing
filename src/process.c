@@ -22,9 +22,9 @@ struct process_ctx {
 struct process_ctx proc_ctx;
 
 static int process_shifter(void) {
-	uint8_t clutch_sttus = 1;
+	uint8_t clutch_status = 1;
 	/* todo */
-	return shifter_process(clutch_sttus);
+	return shifter_process(clutch_status);
 }
 
 static int process_ffb_steering(void) {
